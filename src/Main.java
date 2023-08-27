@@ -16,13 +16,13 @@ public class Main {
         System.out.println("Значение переменной d с типом double равно " +d);
 
         System.out.println("Задание 2");
-        float f1 = 27.12F;
-        long l2 = 987678965549L;
-        float f3 = 2.786F;
-        short s2 = 569;
-        short s3 = -159;
-        short s4 = 27897;
-        byte b2 = 67;
+        float x1 = 27.12F;
+        long x2 = 987678965549L;
+        float x3  = 2.786F;
+        short x4 = 569;
+        short x5 = -159;
+        short x6 = 27897;
+        byte x7 = 67;
 
         System.out.println("Задание 3");
         int allStudents = 23 + 27 + 30;
